@@ -16,6 +16,8 @@ git add '*.txt'
 git rm --cached 'filename.txt'
 git commit -a -m'init'
 git commit -m'text message'
+git commit
+	ESC -> :x
 
 git checkout -- 'filename.txt'
 
