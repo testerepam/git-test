@@ -15,3 +15,10 @@ git add '*.txt'
 
 git rm --cached 'filename.txt'
 git commit -a -m'init'
+git commit -m'text message'
+
+git checkout -- 'filename.txt'
+
+git log
+git log --since=2.weeks
+git log --pretty=format:'%h - %an, %ar : %s'
