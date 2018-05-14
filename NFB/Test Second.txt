@@ -14,7 +14,7 @@ git add .
 git add '*.txt'
 
 git rm --cached 'filename.txt'
-git commit -a -m'init'
+git commit -a
 git commit -m'text message'
 git commit
 	ESC -> :x
