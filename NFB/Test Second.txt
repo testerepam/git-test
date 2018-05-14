@@ -20,6 +20,12 @@ git commit
 	ESC -> :x
 
 git checkout -- 'filename.txt'
+git checkout -b branch_name
+git checkout branch_name
+
+git branch
+git branch -v
+git branch branch_name
 
 git log
 git log --since=2.weeks
