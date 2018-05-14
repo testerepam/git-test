@@ -1,0 +1,17 @@
+
+Git Commands Save here:
+
+cd Folder
+cd ..
+
+git config --list
+
+git status
+git status --untracked-files=normal
+git status --untracked-files=all
+
+git add .
+git add '*.txt'
+
+git rm --cached 'filename.txt'
+git commit -a -m'init'
