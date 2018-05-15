@@ -29,6 +29,9 @@ git branch branch_name
 
 git merge branch_name
 
+git push -u origin master
+git pull
+
 git log
 git log --since=2.weeks
 git log --pretty=format:'%h - %an, %ar : %s'
