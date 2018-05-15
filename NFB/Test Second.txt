@@ -27,6 +27,8 @@ git branch
 git branch -v
 git branch branch_name
 
+git merge branch_name
+
 git log
 git log --since=2.weeks
 git log --pretty=format:'%h - %an, %ar : %s'
